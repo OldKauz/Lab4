@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="main_hint">Введите ваше имя</string>
+    <string name="main_btn">Применить</string>
+    <string name="second_btn">Ок</string>
+    <string name="time">Время</string>
+    <string name="date">Дата</string>
+    <string name="img_btn">Выбрать картинку</string>
+    <string name="play_store_btn">PlayMarket</string>
+</resources>
